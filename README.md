@@ -3,7 +3,6 @@
 Developed an interactive HR Analytics Dashboard using Power BI to analyze workforce data and uncover insights related to employee attrition, demographics, job satisfaction, and organizational performance. The dashboard enables HR professionals to monitor key workforce metrics and make data-driven decisions to improve employee retention and overall business performance.
 
 2. Business Objective
-
 The objective of this project is to help HR teams:
 -Monitor employee attrition trends.
 -Identify departments and job roles with high turnover.
@@ -11,11 +10,11 @@ The objective of this project is to help HR teams:
 -Support strategic HR planning through interactive data visualization.
 
 3. Tech Stack
-Technology	Purpose
-Power BI	Dashboard Development & Data Visualization
-Power Query	Data Cleaning & Transformation
-DAX	KPI Creation & Business Calculations
-Microsoft Excel	Source Dataset.
+-Technology	Purpose
+-Power BI	Dashboard Development & Data Visualization
+-Power Query	Data Cleaning & Transformation
+-DAX	KPI Creation & Business Calculations
+-Microsoft Excel	Source Dataset.
 
 4. Data Source
 HR Employee Dataset (Excel)
@@ -47,9 +46,7 @@ The dataset contains employee information including:
 -Interactive Filters & Slicers
 
 6. Business Problems Addressed
-
 This dashboard answers important HR business questions such as:
-
 -Which departments have the highest employee attrition?
 -Which job roles experience the highest turnover?
 -How does employee age impact attrition?
@@ -78,10 +75,8 @@ This dashboard answers important HR business questions such as:
 -Analytical Thinking
 -Data Storytelling
 
-9. Dashboard Preview
+9. Dashboard Preview-
+ Add screenshots of your dashboard here to provide recruiters with a quick visual overview of the project.
 
-Add screenshots of your dashboard here to provide recruiters with a quick visual overview of the project.
-
-10. Project Outcome
-
-This project demonstrates the ability to transform raw HR data into meaningful business insights using Power BI. It highlights skills in data visualization, KPI development, and analytical problem-solving while supporting strategic HR decision-making.
+10. Project Outcome-
+ This project demonstrates the ability to transform raw HR data into meaningful business insights using Power BI. It highlights skills in data visualization, KPI development, and analytical problem-solving while supporting strategic HR decision-making.
