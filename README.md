@@ -1,4 +1,4 @@
-# HR-Analytics-dashboard-Power BI
+# HR-Analytics-Dashboard-Power BI
 1. Project Overview
 Developed an interactive HR Analytics Dashboard using Power BI to analyze workforce data and uncover insights related to employee attrition, demographics, job satisfaction, and organizational performance. The dashboard enables HR professionals to monitor key workforce metrics and make data-driven decisions to improve employee retention and overall business performance.
 
