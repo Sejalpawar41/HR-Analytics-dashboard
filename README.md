@@ -76,7 +76,7 @@ This dashboard answers important HR business questions such as:
 -Data Storytelling
 
 9. Dashboard Preview-
- Add screenshots of your dashboard here to provide recruiters with a quick visual overview of the project.
+ example-https://github.com/Sejalpawar41/HR-Analytics-dashboard/blob/main/Snapshot%20of%20the%20dashboard.png
 
 10. Project Outcome-
  This project demonstrates the ability to transform raw HR data into meaningful business insights using Power BI. It highlights skills in data visualization, KPI development, and analytical problem-solving while supporting strategic HR decision-making.
